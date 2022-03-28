@@ -7,6 +7,6 @@ Gem::Specification.new do |s|
     s.email       = 'okoth.sc@gmail.com'
     s.files       = ["lib/hello_soc.rb"]
     s.homepage    =
-      'https://rubygems.org/gems/hola'
+      'https://rubygems.org/gems/hello_soc'
     s.license       = 'MIT'
   end
